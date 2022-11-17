@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285161886273']
-global.ownernomer = "6285161886273"
-global.premium = ['6285161886273']
+global.owner = ['6285658254447']
+global.ownernomer = "6285658254447"
+global.premium = ['6285658254447']
 global.packname = 'Sticker By'
 global.author = 'tbfz.bot'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
@@ -65,9 +65,9 @@ global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
 global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'NAZE BOT'
-global.akulaku = 'Bot By Naze'
-global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
+global.botname = 'acumalaka bot'
+global.akulaku = 'Bot By Tubagus Fazlur Rahman'
+global.ytname = 'Tubagus Fazlur Rahman' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
 let file = require.resolve(__filename)
